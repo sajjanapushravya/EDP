@@ -3,17 +3,15 @@
 ```text
 EDP/
 │
-├── Week-1-Pandas/
+├── Week-1/
 │   ├── week1_pandas.py
 │   ├── Iris.csv
-│   ├── cleaned_iris.csv
-│   └── README.md
+│   └── cleaned_iris.csv
 │
-├── Week-2-Linear-Regression/
+├── Week-2/
 │   ├── week2_regression.py
 │   ├── Iris.csv
-│   ├── output.txt
-│   └── README.md
+│   └── output.txt
 │
 └── README.md
 ```
@@ -54,7 +52,7 @@ The project uses the **Iris dataset** to predict **Petal Length** based on **Sep
 ## 📚 Topics Covered
 
 * Loading datasets
-* Selecting features and labels
+* Selecting features and targets
 * Train-test splitting
 * Linear Regression
 * Model training
@@ -78,9 +76,9 @@ PetalLengthCm
 
 The Linear Regression model is evaluated using:
 
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* R² Score
+* **Mean Absolute Error (MAE)**
+* **Mean Squared Error (MSE)**
+* **R² Score**
 
 ## 🛠️ Technologies
 
@@ -88,6 +86,23 @@ The Linear Regression model is evaluated using:
 * Pandas
 * NumPy
 * Scikit-learn
+
+---
+
+# 🧠 Skills Learnt
+
+* Python Programming
+* Pandas
+* NumPy
+* Data Analysis
+* Data Cleaning
+* DataFrame Operations
+* Feature and Target Selection
+* Train-Test Split
+* Linear Regression
+* Model Training and Prediction
+* Model Evaluation
+* Git and GitHub
 
 ---
 

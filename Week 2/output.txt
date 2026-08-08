@@ -1,0 +1,71 @@
+========== First 5 Rows ==========
+   Id  ...      Species
+0   1  ...  Iris-setosa
+1   2  ...  Iris-setosa
+2   3  ...  Iris-setosa
+3   4  ...  Iris-setosa
+4   5  ...  Iris-setosa
+
+[5 rows x 6 columns]
+
+========== Features (X) ==========
+   SepalLengthCm
+0            5.1
+1            4.9
+2            4.7
+3            4.6
+4            5.0
+
+========== Labels (y) ==========
+0    1.4
+1    1.4
+2    1.3
+3    1.5
+4    1.4
+Name: PetalLengthCm, dtype: float64
+
+========== Train-Test Split ==========
+Training data: 120
+Testing data: 30
+
+========== Predictions ==========
+Actual: 4.7 Predicted: 4.26
+Actual: 1.7 Predicted: 3.53
+Actual: 6.9 Predicted: 7.19
+Actual: 4.5 Predicted: 4.08
+Actual: 4.8 Predicted: 5.54
+Actual: 1.5 Predicted: 2.98
+Actual: 3.6 Predicted: 3.34
+Actual: 5.1 Predicted: 5.73
+Actual: 4.5 Predicted: 4.44
+Actual: 3.9 Predicted: 3.71
+Actual: 5.1 Predicted: 4.99
+Actual: 1.4 Predicted: 1.88
+Actual: 1.3 Predicted: 3.16
+Actual: 1.5 Predicted: 2.06
+Actual: 1.5 Predicted: 2.43
+Actual: 4.7 Predicted: 4.63
+Actual: 5.8 Predicted: 4.99
+Actual: 3.9 Predicted: 3.34
+Actual: 4.5 Predicted: 3.53
+Actual: 5.6 Predicted: 4.81
+Actual: 1.6 Predicted: 1.69
+Actual: 4.9 Predicted: 4.26
+Actual: 1.6 Predicted: 2.24
+Actual: 5.6 Predicted: 4.81
+Actual: 6.4 Predicted: 7.56
+Actual: 5.2 Predicted: 5.36
+Actual: 5.8 Predicted: 5.36
+Actual: 5.9 Predicted: 5.54
+Actual: 1.4 Predicted: 1.88
+Actual: 1.6 Predicted: 1.88
+
+========== Evaluation Metrics ==========
+MAE: 0.6167659664774572
+MSE: 0.5965145177566363
+R2 Score: 0.8179909257095002
+
+========== Linear Regression Equation ==========
+Coefficient: 1.832836834279381
+Intercept: -6.919754643134638
+Equation: PetalLengthCm = 1.83 * SepalLengthCm + -6.92

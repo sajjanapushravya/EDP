@@ -1,17 +1,17 @@
-## 📂 Repository Structure
-
-```text
+EDP/
 ├── Week-1-Pandas/
 │   ├── week1_pandas.py
 │   ├── iris.csv
-│   └── cleaned_iris.csv
+│   ├── cleaned_iris.csv
+│   └── README.md
 │
 ├── Week-2-Linear-Regression/
 │   ├── week2_linear_regression.py
-│   └── iris.csv
+│   ├── iris.csv
+│   ├── output.txt
+│   └── README.md
 │
 └── README.md
-```
 
 ## 📅 Week 1 – Pandas Basics
 

@@ -10,7 +10,7 @@ EDP/
 │   └── README.md
 │
 ├── Week-2-Linear-Regression/
-│   ├── week2_linear_regression.py
+│   ├── week2_regression.py
 │   ├── iris.csv
 │   ├── output.txt
 │   └── README.md

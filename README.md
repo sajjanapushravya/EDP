@@ -5,13 +5,13 @@ EDP/
 │
 ├── Week-1-Pandas/
 │   ├── week1_pandas.py
-│   ├── iris.csv
+│   ├── Iris.csv
 │   ├── cleaned_iris.csv
 │   └── README.md
 │
 ├── Week-2-Linear-Regression/
 │   ├── week2_regression.py
-│   ├── iris.csv
+│   ├── Iris.csv
 │   ├── output.txt
 │   └── README.md
 │

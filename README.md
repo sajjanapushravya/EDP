@@ -4,13 +4,11 @@
 ├── Week-1-Pandas/
 │   ├── week1_pandas.py
 │   ├── iris.csv
-│   ├── cleaned_iris.csv
-│   └── README.md
+│   └── cleaned_iris.csv
 │
 ├── Week-2-Linear-Regression/
 │   ├── week2_linear_regression.py
-│   ├── iris.csv
-│   └── README.md
+│   └── iris.csv
 │
 └── README.md
 ```
